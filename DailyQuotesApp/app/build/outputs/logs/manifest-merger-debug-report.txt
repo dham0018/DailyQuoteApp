@@ -1,0 +1,76 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dhame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\743365ed84cc785d0ff6223941e4b5a0\AndroidManifest.xml:16:1-20:12
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dhame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\743365ed84cc785d0ff6223941e4b5a0\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dhame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\743365ed84cc785d0ff6223941e4b5a0\AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:10:9-40
+	android:allowBackup
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:12:9-42
+	android:name
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:8:9-63
+activity#com.example.dailyquotesapp.MainActivity
+ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:14:9-18:20
+	android:label
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:15:13-41
+activity#com.example.dailyquotesapp.SplashActivity
+ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:21:13-47
+	android:name
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:20:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dhame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\743365ed84cc785d0ff6223941e4b5a0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:19.1.0] C:\Users\dhame\.gradle\caches\transforms-1\files-1.1\appcompat-v7-19.1.0.aar\743365ed84cc785d0ff6223941e4b5a0\AndroidManifest.xml:18:5-42
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+		ADDED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Dharmishtha\Android_Work\Own_Projects\DailyQuotesApp\app\src\main\AndroidManifest.xml

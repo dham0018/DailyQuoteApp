@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\DailyQuotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sub_quote.xml",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\DailyQuotesApp\\app\\src\\main\\res\\menu\\sub_quote.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\DailyQuotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash.xml",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\DailyQuotesApp\\app\\src\\main\\res\\menu\\splash.xml"
+    },
+    {
+        "merged": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\DailyQuotesApp\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Dharmishtha\\Android_Work\\Own_Projects\\DailyQuotesApp\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
